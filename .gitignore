@@ -12,7 +12,6 @@ go.work.sum
 .lint.log
 .envrc
 .idea/
-.vscode/
 .tmp/
 .mkdocs-virtual-env/
 vendor/
@@ -53,3 +52,5 @@ build.log
 
 # every coverage artifact: profiles, the HTML report, and the counter directories
 .cover/
+config.bat
+node_modules
